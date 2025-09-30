@@ -1,2 +1,3 @@
 # practica_repo
-superchelas
+superchelas.com
+Nuestra primera practica de github en equipo
