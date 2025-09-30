@@ -1,0 +1,25 @@
+{
+  "name": "practica_repo",
+  "version": "1.0.0",
+  "description": "superchelas.com\r Nuestra primera practica de github en equipo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MildredC1/practica_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MildredC1/practica_repo/issues"
+  },
+  "homepage": "https://github.com/MildredC1/practica_repo#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
